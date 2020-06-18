@@ -11,18 +11,18 @@
     </modules>
   <scm>
 	<connection>scm:https://github.com/RKGOPU2005/maven-multi-module-example.git</connection>
-	<url>https://github.com/RKGOPU2005/maven-multi-module-example.git</url>
-	<developerConnection>scm:git:https://github.com/RKGOPU2005/maven-multi-module-example.git</developerConnection>
+	<url>https://github.com/devopsaws8888/maven-multi-module-example.git</url>
+	<developerConnection>scm:git:https://github.com/devopsaws8888/maven-multi-module-example.git</developerConnection>
   </scm>  
   <distributionManagement>
    <snapshotRepository>
       <id>nexus</id>
       <name>snapshots</name>
-      <url>http://3.23.111.213:8081/nexus/content/repositories/snapshots</url>
+      <url>http://3.19.77.6:8081/nexus/content/repositories/snapshots</url>
    </snapshotRepository> 
     <repository>
       <id>nexus</id>
-      <url>http://3.23.111.213:8081/nexus/content/repositories/releases</url>
+      <url>http://3.19.77.6:8081/nexus/content/repositories/releases</url>
    </repository>  
   </distributionManagement>
   <build>  
